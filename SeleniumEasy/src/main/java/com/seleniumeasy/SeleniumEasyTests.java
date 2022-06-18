@@ -19,6 +19,9 @@ public class SeleniumEasyTests {
         driver = new ChromeDriver(chromeOptions);
     }
 
+    /**
+     * first test method to test ping
+     */
     @Test
     public void firstInitSeleniumEasyTests()
     {
@@ -29,4 +32,3 @@ public class SeleniumEasyTests {
 
 }
 
-  
